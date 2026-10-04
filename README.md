@@ -1,28 +1,10 @@
-```bash
-$ whoami
-saahithi@security:~$ cat about.txt
-```
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2200&pause=500&color=C6A98A&background=2B211C00&center=false&vCenter=true&width=800&height=100&lines=Final-year+Cybersecurity+student%2C+building+detection+engineering+skills+from+the+ground+up;Deployed+a+Wazuh+SIEM+homelab%2C+measured+real+ATT%26CK+coverage+across+13+techniques;Modeled+AWS+attack+paths+to+AdministratorAccess+(CloudChain);Ranked+Top+8%25+on+TryHackMe;Status%3A+open+to+opportunities" alt="Typing SVG" />
+  <img src="assets/about_saahithi.gif" alt="Terminal typing animation" />
 </p>
 
 <br>
 
-## About Me
-
 <details open>
-<summary><b>Background</b></summary>
-<br>
-
-- Final-year B.Tech CSIT (Cyber Security) student at Symbiosis Skills and Professional University
-- Background in compliance frameworks — GDPR, DPDP Act 2023, ISO 27001, NIST CSF 2.0
-- Ranked Top 8% on TryHackMe
-- Enjoy building personal projects outside coursework — productivity tools, small apps, homelabs
-
-</details>
-
-<details>
 <summary><b>What I'm building</b></summary>
 <br>
 
@@ -39,6 +21,7 @@ Attack-path-aware CSPM for AWS — models resources as a dependency graph to fin
 
 **Kernox** — *group project*
 An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the React/TypeScript visualization layer surfacing alerts and suspicious-behavior signals from the backend correlation engine, plus supporting API work.
+[github.com/HrishiK1107/Kernox](https://github.com/HrishiK1107/Kernox)
 
 </details>
 
@@ -46,13 +29,31 @@ An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the Re
 <summary><b>Certifications & hands-on labs</b></summary>
 <br>
 
-| Status | Credential |
-|:---:|---|
-| Done | ISC2 Certified in Cybersecurity (CC) |
-| Done | Cisco Certified Network Associate (CCNA) |
-| Done | TryHackMe — Pre Security |
-| In progress | TryHackMe — SOC Level 1 |
-| Done | OverTheWire — Bandit, Natas, Krypton, Leviathan |
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/bf3ea16c-9b06-457c-9607-bcc766c9216c/linked_in_profile">
+        <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/linkedin_thumb_image.png" width="110" /><br>
+        <b>ISC2 Certified in Cybersecurity (CC)</b>
+      </a>
+      <br><sub>Certified since 2026</sub>
+      <br><a href="https://www.credly.com/badges/bf3ea16c-9b06-457c-9607-bcc766c9216c/linked_in_profile">Verify</a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://tryhackme.com/certificate/THM-1KX2MU7LIC">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1KX2MU7LIC.png" width="110" /><br>
+        <b>TryHackMe — Pre Security</b>
+      </a>
+      <br><sub>Completed 25 Aug 2026</sub>
+      <br><a href="https://tryhackme.com/certificate/THM-1KX2MU7LIC">Verify</a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI4dTgwbHQzcXRnMzlhMmZ6M2NvdTEzdTk1dWNrMGVibTlsdWp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/um2kBnfo55iW4ZH1Fa/giphy.gif" width="110" /><br>
+      <b>TryHackMe — SOC Level 1</b>
+      <br><sub>In progress — still waiting...</sub>
+    </td>
+  </tr>
+</table>
 
 CTF write-ups: Bandit, Natas, Krypton, Leviathan (OverTheWire), plus TryHackMe rooms — [github.com/saahithimukala10-gif/ctf-writeups](https://github.com/saahithimukala10-gif/ctf-writeups)
 
