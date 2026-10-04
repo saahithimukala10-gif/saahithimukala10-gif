@@ -2,10 +2,18 @@
   <img src="assets/about_saahithi.gif" alt="Terminal typing animation" />
 </p>
 
+<p align="left">
+  <a href="resume/Saahithi_Mukala_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-6D4C41?style=for-the-badge&logo=readdotcv&logoColor=F5E6D3" />
+  </a>
+</p>
+
 <br>
 
+## Projects
+
 <details open>
-<summary><b>What I'm building</b></summary>
+<summary>Show projects</summary>
 <br>
 
 **SOC Homelab** — *personal, ongoing*
@@ -25,8 +33,16 @@ An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the Re
 
 </details>
 
-<details>
-<summary><b>Certifications & hands-on labs</b></summary>
+<br>
+
+---
+
+<br>
+
+## Certifications & Hands-on Labs
+
+<details open>
+<summary>Show certifications</summary>
 <br>
 
 <table>
@@ -58,12 +74,6 @@ An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the Re
 CTF write-ups: Bandit, Natas, Krypton, Leviathan (OverTheWire), plus TryHackMe rooms — [github.com/saahithimukala10-gif/ctf-writeups](https://github.com/saahithimukala10-gif/ctf-writeups)
 
 </details>
-
-<br>
-
-## Tech & Tools
-
-Python · Flutter · FastAPI · React · TypeScript · MongoDB · SQL · Docker · Wazuh · AWS · Linux
 
 <br>
 
