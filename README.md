@@ -12,10 +12,6 @@
 
 ## Projects
 
-<details open>
-<summary>Show projects</summary>
-<br>
-
 **SOC Homelab** — *personal, ongoing*
 Deployed a Wazuh SIEM from scratch on an isolated KVM lab, instrumenting a Windows 11 endpoint with layered telemetry (Sysmon, audit policy, PowerShell logging). Ran 13 MITRE ATT&CK techniques across 6 tactics via Atomic Red Team to measure real detection coverage, then authored and paired-validated custom Wazuh rules — including catching LSASS credential dumping and ransomware-precursor shadow-copy deletion — while fixing false positives in stock rules along the way.
 [github.com/saahithimukala10-gif/soc-homelabs](https://github.com/saahithimukala10-gif/soc-homelabs)
@@ -31,8 +27,6 @@ Attack-path-aware CSPM for AWS — models resources as a dependency graph to fin
 An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the React/TypeScript visualization layer surfacing alerts and suspicious-behavior signals from the backend correlation engine, plus supporting API work.
 [github.com/HrishiK1107/Kernox](https://github.com/HrishiK1107/Kernox)
 
-</details>
-
 <br>
 
 ---
@@ -40,10 +34,6 @@ An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the Re
 <br>
 
 ## Certifications & Hands-on Labs
-
-<details open>
-<summary>Show certifications</summary>
-<br>
 
 <table>
   <tr>
@@ -72,8 +62,6 @@ An eBPF-based EDR platform monitoring Linux endpoints in real time. Built the Re
 </table>
 
 CTF write-ups: Bandit, Natas, Krypton, Leviathan (OverTheWire), plus TryHackMe rooms — [github.com/saahithimukala10-gif/ctf-writeups](https://github.com/saahithimukala10-gif/ctf-writeups)
-
-</details>
 
 <br>
 
