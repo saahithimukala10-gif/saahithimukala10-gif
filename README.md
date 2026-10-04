@@ -1,18 +1,10 @@
 ```bash
 $ whoami
 saahithi@security:~$ cat about.txt
-
-> Final-year Cybersecurity student, building detection engineering skills from the ground up
-> Deployed a Wazuh SIEM homelab — measured real ATT&CK coverage across 13 techniques, tuned custom rules to kill false positives
-> Modeled AWS attack paths to AdministratorAccess (CloudChain) and tested LLM triage against prompt-injection attacks
-> Ranked Top 8% on TryHackMe
-> Status: open to opportunities
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-6D4C41?style=for-the-badge&logo=isc2&logoColor=F5E6D3" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-795548?style=for-the-badge&logo=cisco&logoColor=F5E6D3" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top%208%25-4E342E?style=for-the-badge&logo=tryhackme&logoColor=F5E6D3" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2200&pause=500&color=C6A98A&background=2B211C00&center=false&vCenter=true&width=800&height=100&lines=Final-year+Cybersecurity+student%2C+building+detection+engineering+skills+from+the+ground+up;Deployed+a+Wazuh+SIEM+homelab%2C+measured+real+ATT%26CK+coverage+across+13+techniques;Modeled+AWS+attack+paths+to+AdministratorAccess+(CloudChain);Ranked+Top+8%25+on+TryHackMe;Status%3A+open+to+opportunities" alt="Typing SVG" />
 </p>
 
 <br>
