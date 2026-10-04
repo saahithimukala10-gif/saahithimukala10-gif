@@ -74,21 +74,6 @@ Python · Flutter · FastAPI · React · TypeScript · MongoDB · SQL · Docker 
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saahithimukala10-gif&show_icons=true&hide_border=true&bg_color=00000000&title_color=8D6E63&text_color=4E342E&icon_color=795548&ring_color=795548" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saahithimukala10-gif&hide_border=true&background=00000000&ring=795548&fire=8D6E63&currStreakLabel=4E342E&sideLabels=4E342E&currStreakNum=4E342E&sideNums=4E342E&dates=795548" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahithimukala10-gif&layout=compact&hide_border=true&bg_color=00000000&title_color=8D6E63&text_color=4E342E" width="40%" />
-
-</div>
-
-<br>
-
 ## Connect
 
 <p align="center">
